@@ -1,2 +1,2 @@
 # image-classification-with-deep-features
-Creating two classifiers to classify images with and without using deep features 
+Creating two classifiers to classify images with and without using deep features, Using TuriCreate logistic-classifier
